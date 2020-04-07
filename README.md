@@ -1,10 +1,8 @@
-https://amontilla8.github.io/Api-project/
 
+Project 6
 ## Corona Virus Api-project
 
-This is my Api Website. It pulls information from an Api and it convertrs it into a graph. 
-
-
+This is my Back end of my Api Website. It pulls information from an Api and it convertrs it into a graph. 
 
 
 ## Built With 
